@@ -1,3 +1,5 @@
+package Reversi;
+
 public class Game {
   public static final char black = 'B';
   public static final char white = 'W';

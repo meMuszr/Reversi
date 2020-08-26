@@ -1,3 +1,5 @@
+package Reversi;
+
 public class Reversi {
   public static void main(String[] args) {
     Game g = new Game();
